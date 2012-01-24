@@ -9,6 +9,7 @@ int _tmain(int argc, _TCHAR* argv[])
 
 
 	//tähän tulee shakki peli...
+	//dsfag
 	return 0;
 }
 
