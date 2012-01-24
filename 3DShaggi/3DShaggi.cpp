@@ -8,8 +8,8 @@ int _tmain(int argc, _TCHAR* argv[])
 {
 
 
-	//tähän tulee shakki peli...
-	//dsfag
+	//shaggy is mr lova lova
+
 	return 0;
 }
 
